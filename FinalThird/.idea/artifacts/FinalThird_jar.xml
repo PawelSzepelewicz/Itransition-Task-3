@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalThird:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinalThird_jar</output-path>
+    <root id="archive" name="FinalThird.jar">
+      <element id="module-output" name="FinalThird" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/commons-codec-1.15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
